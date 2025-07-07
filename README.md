@@ -7,7 +7,6 @@ realtime audio analyzer(AIGC/student's work)
 
 ## 概述
 
-这是一个基于您提供的UI设计要素创建的音频处理器桌面应用程序。该应用程序使用Python Tkinter构建，完全实现了您要求的所有界面元素和功能。
 
 ## 文件结构
 
@@ -23,7 +22,7 @@ audio_desktop_app/
 ### 1. 测量页面（Measure Page）
 
 **左侧：数字显示区**
-- **BPM显示**：大号粒子字体显示当前节拍速率
+- **BPM显示**：大号字体显示当前节拍速率
 - **dB显示**：显示当前分贝值
 - **Hz显示**：显示主频率
 
